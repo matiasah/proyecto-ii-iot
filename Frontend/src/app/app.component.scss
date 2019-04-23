@@ -1,0 +1,9 @@
+.card-container {
+    // Con esto se alinea el contenido verticalmente
+    height: 100%;
+    align-items: center;
+
+    // Con esto se alinea el contenido horizontalmente
+    display: flex;
+    justify-content: center;
+}
